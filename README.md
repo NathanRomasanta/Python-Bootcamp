@@ -1,12 +1,12 @@
-## 100 Days of Python
+# 100 Days of Python
 
-# Description
+## Description
 
 
 - Projects from 100 days of Python by Dr. Angela Yu
 
 
-# Table of Contents
+## Table of Contents
 
 Below are the projects directory.
 
