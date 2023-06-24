@@ -1,12 +1,14 @@
 # 100 Days of Python
 
-## Description
+## Description - text in red
+
 
 - Projects from 100 days of Python by Dr. Angela Yu
 
-## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+#Table of Contents
+
+Below are the projects directory.
 
 - 001 Tip Calculator
 - 002 Treasure Island
