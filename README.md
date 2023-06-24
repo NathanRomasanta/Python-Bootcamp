@@ -1,6 +1,6 @@
-# 100 Days of Python
+##100 Days of Python
 
-## Description - text in red
+#Description
 
 
 - Projects from 100 days of Python by Dr. Angela Yu
